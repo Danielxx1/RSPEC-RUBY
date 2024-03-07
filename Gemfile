@@ -49,6 +49,8 @@ group :development, :test do
   gem "debug", platforms: %i[ mri windows ]
 
   gem 'rspec-rails', '~> 4.1.0'
+  gem 'ffaker'
+  gem 'factory_bot_rails'
 end
 
 group :development do
