@@ -1,0 +1,7 @@
+<% @weapons.each do |weapon| %>
+    <p><%= weapon.title %></p>
+    <p><%= weapon.current_power %></p>
+    <p><%= weapon.name %></p>
+<% end %>
+
+<%= link_to 'Back', weapons_path %>
