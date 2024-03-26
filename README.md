@@ -1,24 +1,11 @@
-# README
+# RSPEC-RUBY 
+  - Projeto criado para estudos sobre teste usando a gem RSPEC
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Esse projeto consiste na criação de:
+ 
+ -- CONTROLLERS: Em que eu testo os metodos , classes e views
+ 
+ -- MODELS : Onde eu testo os atributos desse model.
+ 
+ -- API : Onde eu testo se está retornando os dados corretamente
+  
